@@ -1,4 +1,4 @@
-import Constants
+import gflConst
 
 one = 1
 two = 2
@@ -10,5 +10,5 @@ helloworld = hello + " " + world
 
 print helloworld + "!" + " " + str(three)
 
-print "Piston Engine: " + str(Constants.EngineC.PISTON)
-print "Admin Logon: " + str(Constants.LogonC.ADMIN)
+print "Piston Engine: " + str(gflConst.EngineC.PISTON)
+print "Admin Logon: " + str(gflConst.LogonC.ADMIN)
