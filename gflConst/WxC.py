@@ -1,0 +1,9 @@
+# Object Types
+
+VFR = 900
+MVFR = 901
+IFR = 902
+CAT1 = 903
+CAT2 = 904
+CAT3 = 905
+

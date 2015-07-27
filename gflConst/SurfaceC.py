@@ -1,0 +1,6 @@
+# Runway Surface Types
+
+CONCRETE = 1100
+ASPHALT = 1101
+GRASS = 1102
+DIRT = 1103

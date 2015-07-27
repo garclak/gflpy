@@ -3,3 +3,10 @@ from LogonC import *
 from RankC import *
 from EngineC import *
 from HemiC import *
+from SortC import *
+from StateC import *
+from StatusC import *
+from SurfaceC import *
+from TypeC import *
+from WaypointC import *
+from WxC import *
