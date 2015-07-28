@@ -1,6 +1,6 @@
 class Aircraft(object):
-    def __init__(self):
-      self.id  = 0
+    def __init__(self,id = 0):
+      self.id  = id
       self.Manufacturer  = ""
       self.Model  = ""
       self.Variant  = ""
