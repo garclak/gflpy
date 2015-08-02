@@ -22,7 +22,11 @@ print "ac1 ID: " + str(ac1.id)
 print "ap1 ID: " + str(ap1.id)
 
 dl1 = gflObject.DisplayItem(500,['one', 'two', 'three'])
-
 print "dl1:-"
 print dl1.getList()
 
+fl1 = gflObject.Flight(700)
+print "fl1: " + str(fl1.id)
+
+fll1 = gflObject.FlightLeg(300)
+print "fll1: " + str(fll1.id)
