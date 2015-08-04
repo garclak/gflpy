@@ -3,8 +3,8 @@ import datetime
 class FlightLeg(object):
     def __init__(self,id = 0):
 		self.id = id
-		CalcMinutes = datetime.timedelta()
-		ActMinutes = datetime.timedelta()
+		DurationCalc = datetime.timedelta()
+		DurationAct = datetime.timedelta()
 		ArrDateUTC = datetime.datetime(1800,01,01)
 		PlanAltitude = 0 
 		PlanAirspeed = 0 
